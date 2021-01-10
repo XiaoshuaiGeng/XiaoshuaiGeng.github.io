@@ -1,20 +1,12 @@
-- title: Social Good!
-  event: MLH Fellowship Explorer Sprint 5
-  date: Fall 2020 - Batch 1
+- title: Mobile Expense
+  event: Mobile Expense Management System using Java developed in Android Studio
+  date: Spring 2020
 
-- title: Developer Tools!
-  event: MLH Fellowship Explorer Sprint 4
-  date: Fall 2020 - Batch 1
+- title: GSMS - Game Stop Management System 
+  event: A game shop stock management system built by PyQt5/Python/MySQL
+  date: December 2020
 
-- title: Machine Learning Project
-  event: MLH Fellowship Explorer Sprint 3
-  date: Fall 2020 - Batch 1
-
-- title: Fun Game
-  event: MLH Fellowship Explorer Sprint 2
-  date: Fall 2020 - Batch 1
-
-- title: Flash Card Generator
-  event: MLH Fellowship Explorer Sprint 1
-  date: Fall 2020 - Batch 1
-  page-name: sprint1
+- title: Angry Discord Bot
+  event: A simple discord bot for the server(Node.js)
+  date: Fall 2020 - Present
+  # page-name
